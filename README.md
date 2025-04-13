@@ -14,4 +14,4 @@ I'm always open to exploring new ideas, contributing to meaningful projects, or 
 
 ---
 
-_Thanks for stopping by. See you in the logs 🚀_
+_Thanks for stopping by. See you in the logs_
