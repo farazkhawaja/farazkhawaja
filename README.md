@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz Khawaja </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabadustox&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabadustox" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farazkhawaja&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabadustox" /> </p>
 <p>Code Time SINCE OCT 6 2023</p>
 <a href="https://wakatime.com/@018b0391-b604-45d9-8ac0-709dc25df2a3"><img src="https://wakatime.com/badge/user/018b0391-b604-45d9-8ac0-709dc25df2a3.svg" alt="Total time coded since Oct 6 2023" /></a>
 
