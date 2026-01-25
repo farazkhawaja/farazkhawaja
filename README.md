@@ -11,5 +11,6 @@ I believe good engineering is about more than just code, it's about **communicat
 
 ###  Let’s connect!
 I'm always open to exploring new ideas, contributing to meaningful projects, or teaming up to build something cool. Feel free to check out my work, open an issue, or just say hi.
+Linkedin: https://www.linkedin.com/in/khwajafaraz/
 
 _Thanks for stopping by._
