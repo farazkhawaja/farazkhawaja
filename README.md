@@ -1,6 +1,6 @@
 # Hey there, I'm Faraz!
 
-I’m a tech enthusiast who enjoys building things that solve real problems. I wouldn't call myself an expert, but I’m driven by curiosity and the constant desire to get better.
+I’m a tech enthusiast who enjoys building things that solve real problems. I’m driven by curiosity and the constant desire to get better.
 
 ### What I enjoy:
 - Breaking down complex systems into something understandable
