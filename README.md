@@ -11,7 +11,8 @@ I believe good engineering is about more than just code, it's about **communicat
 
 ###  Let’s connect!
 I'm always open to exploring new ideas, contributing to meaningful projects, or teaming up to build something cool. Feel free to check out my work, open an issue, or just say hi.
-- Member of [Kubernetes SIGs](https://github.com/kubernetes-sigs), contributing to Kubernetes SIG projects
+
+Member of [Kubernetes SIGs](https://github.com/kubernetes-sigs), contributing to Kubernetes SIG projects
 
 Linkedin: https://www.linkedin.com/in/khwajafaraz/
 
